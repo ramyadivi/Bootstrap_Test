@@ -1,0 +1,29 @@
+{
+    "Images": [{
+        "img": "http://hdwallpaperia.com/wp-content/uploads/2014/01/Dark-And-Fire-Wallpaper-HD-Dekstop-PC-1024x576.jpg",
+        "caption": "Dark-And-Fire-Horse"
+    }, {
+
+        "img": "http://lebar.in/wp-content/uploads/2015/09/beautiful-spring-flowers-wallpapers.jpg",
+        "caption": "Earth Laughs in Flowers"
+    }, {
+        "img": "http://wallpapercave.com/wp/kDAaKYD.jpg",
+        "caption": "Nature is Painting for us"
+    }],
+
+
+
+    "SmallImages": [{
+        "title": "Item1",
+        "icon": "http://webneel.com/wallpaper/sites/default/files/images/04-2013/beautiful-red-flower-wallpaper.preview.jpg",
+        "text": "Flowers are without hope.Because hope is tomorrow and flowers have no tomorrow"
+    }, {
+        "title": "Item2",
+        "icon": "http://wallpapercanyon.com/wp-content/uploads/2016/01/Mobile-Wallpapers-22.jpg",
+        "text": "Simle and Forgive.It's the  only way to live"
+    }, {
+        "title": "Item3",
+        "icon": "http://comps.gograph.com/cute-teddy-bear-flying-balloons_gg62366631.jpg",
+        "text": "Very little is needed to make a happy life;it is all within yourself,in your way of thinking."
+    }]
+}

@@ -1,0 +1,39 @@
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus,
+.nav-tabs>li.active>a:hover {
+    border: 3px solid #0000ff;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+}
+
+.ibox {
+    margin-bottom: 20px;
+    padding: 0;
+    border-left: 5px solid #0000ff;
+}
+
+.head {
+    margin-top: 20px;
+    padding: 0;
+}
+
+.gap {
+    margin-top: 20px;
+}
+
+.vline {
+    border-right: 1px solid #e6e6ce;
+}
+
+#image img {
+    max-height: 350px;
+}
+
+#item img {
+    max-height: 90px;
+}
+
+#myTabContent {
+    border-left: 1px solid #000000;
+}
